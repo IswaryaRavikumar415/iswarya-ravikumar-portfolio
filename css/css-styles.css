@@ -166,3 +166,12 @@ form.submitting .wpcf7-spinner {
 .wpcf7-reflection > output[hidden] {
 	display: none;
 }
+.live-site-url-btn{
+	margin-top: 40px;
+}
+.live-site-url-btn a{
+	background-color: #987750;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 25px;
+}

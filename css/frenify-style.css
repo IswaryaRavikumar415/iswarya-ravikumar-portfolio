@@ -2663,4 +2663,12 @@ ul.main_menu > li:hover > ul.sub-menu{
 		padding: 40px 3%;
 	}
 }
-	
+.live-site-url-btn{
+	margin-top: 40px;
+}
+.live-site-url-btn a{
+	background-color: #987750;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 25px;
+}	

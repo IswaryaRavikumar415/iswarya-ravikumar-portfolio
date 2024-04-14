@@ -46,3 +46,13 @@ body.light .resumo_fn_navigation2 .social a {
 }
 .live-site-url{margin-bottom:50px; color:#987750;}
 .live-site-url a{color:#987750;}
+.live-site-url-btn{
+	margin-top: 40px;
+}
+.live-site-url-btn a{
+	background-color: #987750;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 25px;
+}
+.resumo_fn_modalbox .img_holder .abs_img {margin-top: 40px;}	
